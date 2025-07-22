@@ -1,5 +1,3 @@
-# Generative-AI-Course
-
 # Generative AI for NET
 
 ## **Introduction to Machine Learning & AI**
